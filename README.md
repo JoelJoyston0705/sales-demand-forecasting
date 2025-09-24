@@ -38,3 +38,10 @@ sales-demand-forecasting/
 - Deploy the Streamlit app online
 - Include real-time inventory data for forecasting
 - Explore Prophet model enhancements
+
+
+## ✨ Future Work
+- Deploy on Heroku
+- Add ARIMA + hybrid models
+
+
